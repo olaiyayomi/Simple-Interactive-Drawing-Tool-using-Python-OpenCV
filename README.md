@@ -11,3 +11,7 @@ This Python script utilizes OpenCV to create a basic interactive drawing tool. T
 2. Install the required libraries using the following command:
    ```bash
    pip install opencv-python
+
+
+TAGS: 
+#opencv #iot #computergame #innovation #data #computerworld #computergraphic #ml #pythonprogramming #computerarts #computergaming #gaming #artificialintelligenceai #computerproblems #datavisualization #computerparts #engineering #datascientist #computerhelp #computervisionsyndrome #tensorflow #machinelearningalgorithms #science #computersupport #programmer #codinglife #dataanalysis #computernetwork #cybersecurity #analytics #python #programming #coding #java #javascript #programmer #developer #html #snake #coder #code #computerscience #technology #css #machinelearning #pythonprogramming #linux #ballpython #php #datascience #reptile #snakes #reptiles #snakesofinstagram #software #reptilesofinstagram #webdevelopment #webdeveloper #tech #codinglife #softwaredeveloper #hacking #artificialintelligence #pythonsofinstagram #programmingmemes #cybersecurity #webdesign #ai #pythons #hacker #programmers #ballpythonsofinstagram #computer #c #programminglife #development #deeplearning #pythonregius #softwareengineer #ballpythons #pythoncode #android #royalpython #kalilinux #bhfyp #reptilelover #ethicalhacking #ballpythonmorphs #bigdata #reactjs
